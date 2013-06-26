@@ -27,3 +27,4 @@ HID Spec
 | 1     | 0-7  | X displacement               |
 | 2     | 0-7  | Y displacement               |
 | 3-n   | 0-7  | Device specific (optional)   |
+[Source: (page 61)](http://www.usb.org/developers/devclass_docs/HID1_11.pdf)
