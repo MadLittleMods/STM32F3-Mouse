@@ -28,3 +28,7 @@ HID Spec
 | 2     | 0-7  | Y displacement               |
 | 3-n   | 0-7  | Device specific (optional)   |
 *[Source: (page 61)](http://www.usb.org/developers/devclass_docs/HID1_11.pdf)*
+
+Other Info
+--------
+This project was based off of the USB_Example from [STM32F3 Firmware download](http://www.st.com/web/en/catalog/tools/PF258154).
